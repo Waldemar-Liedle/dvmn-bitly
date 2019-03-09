@@ -4,6 +4,6 @@
 <p>After Python3 and pip are installed, run following command:</p>
 <p><code>pip install -r requirements.txt</code></p>
 <h2>Purpose</h2>
-<p>The program returns a shorten links or the clicks count for a Bit.ly ID.</p>
+<p>The program returns a shorten link or the clicks count for a Bit.ly ID.</p>
 <p><code>python main.py https://github.com/Waldemar-Liedle/dvmn-bitly</code></p>
 <p><code>python main.py bit.ly/2H8tCcA</code></p>
